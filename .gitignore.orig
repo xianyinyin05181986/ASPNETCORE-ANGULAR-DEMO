@@ -66,7 +66,7 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
-
+<<<<<<< HEAD
 =======
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
@@ -81,22 +81,22 @@ artifacts/
 StyleCopReport.xml
 
 # Files built by Visual Studio
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 *_i.c
 *_p.c
 *_i.h
 *.ilk
 *.meta
 *.obj
-
+<<<<<<< HEAD
 *.pch
 *.pdb
-
+=======
 *.iobj
 *.pch
 *.pdb
 *.ipdb
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 *.pgc
 *.pgd
 *.rsp
@@ -125,11 +125,11 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
-
-
+<<<<<<< HEAD
+=======
 *.VC.db
 *.VC.VC.opendb
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Visual Studio profiler
 *.psess
@@ -137,12 +137,12 @@ ipch/
 *.vspx
 *.sap
 
-
-
+<<<<<<< HEAD
+=======
 # Visual Studio Trace Files
 *.e2e
 
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 # TFS 2012 Local Workspace
 $tf/
 
@@ -163,8 +163,8 @@ _TeamCity*
 # DotCover is a Code Coverage Tool
 *.dotCover
 
-
-
+<<<<<<< HEAD
+=======
 # AxoCover is a Code Coverage Tool
 .axoCover/*
 !.axoCover/settings.json
@@ -173,7 +173,7 @@ _TeamCity*
 *.coverage
 *.coveragexml
 
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
@@ -205,16 +205,16 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-
+<<<<<<< HEAD
 # TODO: Comment the next line if you want to checkin your web deploy settings
-
+=======
 # Note: Comment the next line if you want to checkin your web deploy settings,
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
 
-
+<<<<<<< HEAD
 # NuGet Packages
 *.nupkg
 # The packages folder can be ignored because of Package Restore
@@ -223,7 +223,7 @@ publish/
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
-
+=======
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
 # checkin your Azure Web App publish settings, but sensitive information contained
 # in these scripts will be unencrypted
@@ -240,7 +240,7 @@ PublishScripts/
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Microsoft Azure Build Output
 csx/
@@ -250,21 +250,21 @@ csx/
 ecf/
 rcf/
 
-
+<<<<<<< HEAD
 # Microsoft Azure ApplicationInsights config file
 ApplicationInsights.config
 
 # Windows Store app package directory
 AppPackages/
 BundleArtifacts/
-
+=======
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -278,19 +278,19 @@ ClientBin/
 *~
 *.dbmdl
 *.dbproj.schemaview
-
-
+<<<<<<< HEAD
+=======
 *.jfm
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 *.pfx
 *.publishsettings
 orleans.codegen.cs
 
-
+<<<<<<< HEAD
 /node_modules
 
 /yarn.lock
-
+=======
 # Including strong name files can present a security risk 
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
@@ -298,7 +298,7 @@ orleans.codegen.cs
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -310,28 +310,28 @@ _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
-
-
+<<<<<<< HEAD
+=======
 ServiceFabricBackup/
 *.rptproj.bak
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # SQL Server files
 *.mdf
 *.ldf
-
-
+<<<<<<< HEAD
+=======
 *.ndf
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
 *.bim_*.settings
-
-
+<<<<<<< HEAD
+=======
 *.rptproj.rsuser
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -341,10 +341,10 @@ FakesAssemblies/
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
-
-
+<<<<<<< HEAD
+=======
 node_modules/
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 
 # Visual Studio 6 build log
 *.plg
@@ -352,12 +352,12 @@ node_modules/
 # Visual Studio 6 workspace options file
 *.opt
 
-
-
+<<<<<<< HEAD
+=======
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
-
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts
@@ -368,9 +368,11 @@ _Pvt_Extensions
 
 # Paket dependency manager
 .paket/paket.exe
+<<<<<<< HEAD
 
 # FAKE - F# Make
 .fake/
+=======
 paket-files/
 
 # FAKE - F# Make
@@ -417,3 +419,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+>>>>>>> 0af63f0300255b64fa64392059e4000375085bf0
